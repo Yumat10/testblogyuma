@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/testBlogYuma/static/css/main.7c907f31.chunk.css",
+    "main.js": "/testBlogYuma/static/js/main.d3c9cab0.chunk.js",
+    "main.js.map": "/testBlogYuma/static/js/main.d3c9cab0.chunk.js.map",
+    "runtime-main.js": "/testBlogYuma/static/js/runtime-main.7db08838.js",
+    "runtime-main.js.map": "/testBlogYuma/static/js/runtime-main.7db08838.js.map",
+    "static/js/2.10331b4a.chunk.js": "/testBlogYuma/static/js/2.10331b4a.chunk.js",
+    "static/js/2.10331b4a.chunk.js.map": "/testBlogYuma/static/js/2.10331b4a.chunk.js.map",
+    "index.html": "/testBlogYuma/index.html",
+    "precache-manifest.de78b2c441dd7d53a6cc700a130cc252.js": "/testBlogYuma/precache-manifest.de78b2c441dd7d53a6cc700a130cc252.js",
+    "service-worker.js": "/testBlogYuma/service-worker.js",
+    "static/css/main.7c907f31.chunk.css.map": "/testBlogYuma/static/css/main.7c907f31.chunk.css.map",
+    "static/js/2.10331b4a.chunk.js.LICENSE.txt": "/testBlogYuma/static/js/2.10331b4a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/testBlogYuma/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7db08838.js",
+    "static/js/2.10331b4a.chunk.js",
+    "static/css/main.7c907f31.chunk.css",
+    "static/js/main.d3c9cab0.chunk.js"
+  ]
+}
