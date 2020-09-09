@@ -10,7 +10,7 @@ import Typography from "@material-ui/core/Typography";
 import IconButton from "@material-ui/core/IconButton";
 
 //Icons
-import CloseIcon from "@material-ui/icons/Close";
+import DeleteIcon from "@material-ui/icons/Delete";
 
 const styles = () => ({
   card: {
@@ -18,7 +18,7 @@ const styles = () => ({
     padding: "30px 50px",
     maxWidth: "1000px",
   },
-  closeIcon: {
+  deleteIcon: {
     marginLeft: "95%",
   },
   titleDiv: {
@@ -75,9 +75,9 @@ class blog extends Component {
     return (
       <Card className={classes.card}>
         <Grid container direction="column" spacing={2}>
-          <Grid item className={classes.closeIcon}>
+          <Grid item className={classes.deleteIcon}>
             <IconButton onClick={this.handleClose}>
-              <CloseIcon />
+              <DeleteIcon />
             </IconButton>
           </Grid>
           <Grid item>
