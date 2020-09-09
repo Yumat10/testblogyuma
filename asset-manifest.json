@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/testBlogYuma/static/css/main.7c907f31.chunk.css",
-    "main.js": "/testBlogYuma/static/js/main.d3c9cab0.chunk.js",
-    "main.js.map": "/testBlogYuma/static/js/main.d3c9cab0.chunk.js.map",
-    "runtime-main.js": "/testBlogYuma/static/js/runtime-main.7db08838.js",
-    "runtime-main.js.map": "/testBlogYuma/static/js/runtime-main.7db08838.js.map",
-    "static/js/2.10331b4a.chunk.js": "/testBlogYuma/static/js/2.10331b4a.chunk.js",
-    "static/js/2.10331b4a.chunk.js.map": "/testBlogYuma/static/js/2.10331b4a.chunk.js.map",
-    "index.html": "/testBlogYuma/index.html",
-    "precache-manifest.de78b2c441dd7d53a6cc700a130cc252.js": "/testBlogYuma/precache-manifest.de78b2c441dd7d53a6cc700a130cc252.js",
-    "service-worker.js": "/testBlogYuma/service-worker.js",
-    "static/css/main.7c907f31.chunk.css.map": "/testBlogYuma/static/css/main.7c907f31.chunk.css.map",
-    "static/js/2.10331b4a.chunk.js.LICENSE.txt": "/testBlogYuma/static/js/2.10331b4a.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/testBlogYuma/static/media/logo.5d5d9eef.svg"
+    "main.css": "/testblogyuma/static/css/main.7c907f31.chunk.css",
+    "main.js": "/testblogyuma/static/js/main.03d1033b.chunk.js",
+    "main.js.map": "/testblogyuma/static/js/main.03d1033b.chunk.js.map",
+    "runtime-main.js": "/testblogyuma/static/js/runtime-main.b8c9b574.js",
+    "runtime-main.js.map": "/testblogyuma/static/js/runtime-main.b8c9b574.js.map",
+    "static/js/2.10331b4a.chunk.js": "/testblogyuma/static/js/2.10331b4a.chunk.js",
+    "static/js/2.10331b4a.chunk.js.map": "/testblogyuma/static/js/2.10331b4a.chunk.js.map",
+    "index.html": "/testblogyuma/index.html",
+    "precache-manifest.8b4eeb4ddae736e9ce38a956a5707c66.js": "/testblogyuma/precache-manifest.8b4eeb4ddae736e9ce38a956a5707c66.js",
+    "service-worker.js": "/testblogyuma/service-worker.js",
+    "static/css/main.7c907f31.chunk.css.map": "/testblogyuma/static/css/main.7c907f31.chunk.css.map",
+    "static/js/2.10331b4a.chunk.js.LICENSE.txt": "/testblogyuma/static/js/2.10331b4a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/testblogyuma/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7db08838.js",
+    "static/js/runtime-main.b8c9b574.js",
     "static/js/2.10331b4a.chunk.js",
     "static/css/main.7c907f31.chunk.css",
-    "static/js/main.d3c9cab0.chunk.js"
+    "static/js/main.03d1033b.chunk.js"
   ]
 }
