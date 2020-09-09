@@ -9,7 +9,7 @@ import blog from "./pages/blog";
 
 function App() {
   return (
-    <Router>
+    <Router basename="/testblogyuma">
       <Switch>
         <Route exact path="/" component={home} />
         <Route exact path="/blog/:blogId" component={blog} />
